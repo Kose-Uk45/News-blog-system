@@ -1,0 +1,17 @@
+#heading{
+  color:blue;
+}
+#heading:hover{
+  background-color:yellow;
+}
+#blog{
+  background-color: #f5f5f5;
+
+}
+#blogImage{
+  overflow:hidden;
+  background-color: green;
+  width:400px;
+  height:200px;
+  margin-right:
+}
